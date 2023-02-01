@@ -58,6 +58,5 @@ Will practice and master more flex properties that are not used in this project,
 
 ## Author
 
-- Website - [Kriss K](coming soon)
 - Frontend Mentor - [@byKrissK](https://www.frontendmentor.io/profile/byKrissK)
 - Twitter - [@byKrissK](https://twitter.com/byKrissK)
