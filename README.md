@@ -24,8 +24,8 @@ The task is to build / clone the QR code component as close as possible to the i
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/byKrissK/FrontendMentor-QR-code-component)
+- Live Site URL: (https://bykrissk.github.io/FrontendMentor-QR-code-component/)
 
 ## My process
 
