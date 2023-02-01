@@ -54,7 +54,7 @@ Will practice and master more flex properties that are not used in this project,
 
 ### Useful resources
 
-- [Example resource 1](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This helped me to understand more on the property whenever I got stucked.
+- (https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Author
 
