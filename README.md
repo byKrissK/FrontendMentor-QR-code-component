@@ -20,7 +20,7 @@ The task is to build / clone the QR code component as close as possible to the i
 
 ### Screenshot
 
-![](/images/screenshot.jpg)
+![](/img/screenshot.jpg)
 
 ### Links
 
