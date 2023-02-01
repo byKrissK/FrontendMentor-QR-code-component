@@ -39,15 +39,12 @@
 
       .items-container {
         background-color: hsl(0, 0%, 100%);
-        max-width: 29rem;
+        max-width: 32rem;
         padding: 1.5rem;
+        border-radius: 2rem;
         display: flex;
         flex-direction: column;
         align-items: center;
-      }
-
-      .items-container {
-        border-radius: 2rem;
       }
 
       img {
@@ -57,15 +54,18 @@
       }
 
       .text-container {
-        padding: 1.8rem .9rem;
+        padding: 2rem 1.5rem;
         text-align: center;
       }
 
-      h2 {
+      h1 {
         color: hsl(218, 44%, 22%);
-        font-size: 2rem;
+        font-size: 2.2rem;
         font-weight: 700;
         margin-bottom: 1.5rem;
+      }
+
+      h1, p{
         letter-spacing: .2px;
       }
 
@@ -81,15 +81,15 @@
     </style>
   </head>
   <body>
-    <div class="main-container">
+    <main class="main-container">
       <div class="items-container">
         <img-container><img src="./img/image-qr-code.png" alt="Qr code"></img-container>
         <div class="text-container">
-          <h2>Improve your front-end skills by building projects</h2>
+          <h1>Improve your front-end skills by building projects</h1>
           <p>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
         </div>
       </div>
-    </div>
-    <div class="attribution"> Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. Coded by <a href="https://www.frontendmentor.io/profile/byKrissK" target="_blank">Kriss K</a>. </div>
+    </main>
+    <footer class="attribution"> Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. Coded by <a href="https://www.frontendmentor.io/profile/byKrissK" target="_blank">Kriss K</a>. </footer>
   </body>
 </html>
